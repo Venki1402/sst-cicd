@@ -8,7 +8,7 @@ def test_add():
 
 def test_add2():
     assert add(100, 10) == 110
-    assert add(24, 200) == 224
+    assert add(24, 220) == 224
 
 
 def test_divide():
